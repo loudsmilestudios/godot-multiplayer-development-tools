@@ -1,5 +1,7 @@
 # Godot Multiplayer Development Tools
 
+[loudsmilestudios/godot-multiplayer-development-tools](https://github.com/loudsmilestudios/godot-multiplayer-development-tools)
+
 ## Current Features
 
 - Multistart button
@@ -18,5 +20,5 @@
 
     ```bash
     cd addons
-    git submodule add git@github.com:godot-avengers/godot-multiplayer-development-tools.git
+    git submodule add git@github.com:loudsmilestudios/godot-multiplayer-development-tools.git
     ````
